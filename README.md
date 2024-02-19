@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo NLW Spacetime - Rocketseat" src="https://i.imgur.com/cCCYDUs.png" width="200px" />
+  <img alt="Logo NLW Spacetime - Rocketseat" src="https://i.imgur.com/MSlPUPs.png" width="200px" />
 </p>
 
 <p align="center">
