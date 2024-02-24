@@ -23,6 +23,8 @@ Aplicação desenvolvida no NLW Spacetime da Rocketseat na trilha Explorer.
   <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/HKYHysP.jpeg" width="80%">
 </p>
 
+> Projeto desenvolvido entre os dias 16/02 e 19/02 de 2024
+
 ## **🚀 Tecnologias**
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
