@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo NLW Spacetime - Rocketseat" src="https://i.imgur.com/MSlPUPs.png" width="200px" />
-</p>
+</p> 
 
 <p align="center">
 Aplicação desenvolvida no NLW Spacetime da Rocketseat na trilha Explorer.
